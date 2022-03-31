@@ -1,0 +1,69 @@
+  [
+    {
+      "id": "1",
+      "img": "https://i.gifer.com/2EG3.gif",
+      "opciones": {
+        "a": "Homero llorando.",
+        "b": "Bender llorando"
+      }
+    },
+    {
+      "id": "2a",
+      "img": "https://thumbs.gfycat.com/DirectImperturbableHyrax-size_restricted.gif",
+      "opciones": {
+        "a": "Homero de fiesta",
+        "b": "Bender de fiesta"
+      }
+    },
+    {
+      "id": "2b",
+      "img": "https://i.pinimg.com/originals/83/a2/20/83a2200bf8718e63ee93e399c6581c6f.gif",
+      "opciones": {
+        "a": "Homero de fiesta",
+        "b": "Bender de fiesta"
+      }
+    },
+    {
+      "id": "3a",
+      "img": "https://64.media.tumblr.com/2257105f98fcc2f349fb1e5daf08c919/tumblr_orc8s8199R1vbcnq8o1_500.gifv",
+      "opciones": {
+        "a": "Homero Borracho",
+        "b": "Bender Borracho"
+      }
+    },
+    {
+      "id": "3b",
+      "img": "https://i.gifer.com/S82G.gif",
+      "opciones": {
+        "a": "Homero Borracho",
+        "b": "Bender Borracho"
+      }
+    },
+    {
+      "id": "4a",
+      "img": "https://pa1.narvii.com/6714/1990e9e35cb8a82cda73df14675030b304205ed8_hq.gif",
+      "opciones": {
+        "a": "Los Simpson",
+        "b": "Futurama."
+      }
+    },
+    {
+      "id": "4b",
+      "img": "https://2img.net/h/25.media.tumblr.com/tumblr_l7w301T5Od1qz9bfvo1_500.gif",
+      "opciones": {
+        "a": "Los Simpson",
+        "b": "Futurama."
+      }
+    },
+    {
+      "id": "5a",
+      "img": "https://thumbs.gfycat.com/WhichCourageousGuineapig-size_restricted.gif",
+      "opciones": { "a": "FIN.", "b": "FIN." }
+    },
+    {
+      "id": "5b",
+      "img": "https://c.tenor.com/Ebi5nqH-6T8AAAAC/futurama-fry.gif",
+      "opciones": { "a": "FIN", "b": "FIN" }
+    }
+  ]
+  
